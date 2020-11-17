@@ -24,4 +24,4 @@ This is explanation about tools & images that showed on this architecture (seque
 I create mainly on Figma. There are 2 version of this architecture, single page and multi page. You could see those on following links https://www.figma.com/file/0kYTEHTB9r9KMjOsseuGQM/DevOps-Architecture?node-id=82%3A290
 
 ## Creator Notes
-If you think this architecture could give you an insight of how the website is create and works, you could freely download this image.
+If you think this architecture could give you an insight of how the website is create and works, also an insight of DevOps jobdesk, you could freely download architecture image from this repo.
