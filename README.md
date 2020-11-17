@@ -1,5 +1,5 @@
 # Cafe Shop Architecture
-This repo is contain DevOps Architecture of "Cafe Shop Project" website
+This repo is contain DevOps Architecture of "Cafe Shop Project" website. To see "Cafe Shop Project", you could see on this link https://github.com/tresnaadin/cafe-shop_project
 
 ## About Architecture
 The purpose of this architecture is to illustrate how the website created, from the begining of code creation until the deployment of website itself
